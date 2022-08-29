@@ -1,2 +1,2 @@
 # Tinn
-C++ library of Tinn (Tiny Neural Network)
+C ++ library based on Tinn C library (https://github.com/glouw/tinn)
